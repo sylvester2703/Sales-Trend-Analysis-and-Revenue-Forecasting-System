@@ -1,0 +1,2 @@
+id,Store,Dept,Date,Weekly_Sales,IsHoliday,Temperature,Fuel_Price,CPI,Unemployment,Type,Size,created_at
+,999,999,2026-12-25,9999999.0,True,50.0,10.0,500.0,1.0,Z,9999999,
